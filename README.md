@@ -1,7 +1,7 @@
 # TODO-App
 NodeJS+Postgres
 
-##Steps to run
+## Steps to run
 1) Install postgres + nodejs to your local machine.
 2) Create a database 'perntodo' and a table named 'todo' using command-
     CREATE TABLE todo(
